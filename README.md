@@ -31,7 +31,7 @@
 
 
 
-## Baekjoon Online Judge
+## BOJ tier
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhan0319)](https://solved.ac/suhan0319)
 
