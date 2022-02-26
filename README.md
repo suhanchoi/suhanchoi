@@ -4,7 +4,7 @@
 
 - **graduated from** `Chonnam National University` 👨‍🎓
 - **majored in** `Industrial Engineering` 📊
-- **dual maored in** `Software Engineering`:computer:
+- **dual majored in** `Software Engineering`:computer:
 - **learning SW in** `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` 👨‍💻
 
 ## Tech Stack
